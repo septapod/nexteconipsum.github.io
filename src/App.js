@@ -214,8 +214,7 @@ const NextEconomyIpsum = () => {
               <Sparkles className="w-8 h-8 text-purple-400" />
             </div>
             <p className="text-xl text-slate-300 max-w-3xl mx-auto font-light leading-relaxed">
-              Generate placeholder text using language from post-capitalism, inclusive economics, 
-              just transition, and regenerative economy movements.
+              Generate placeholder text using language from post-capitalism, inclusive economics, and regenerative economics communities.
             </p>
           </div>
 
