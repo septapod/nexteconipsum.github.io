@@ -325,12 +325,12 @@ const NextEconomyIpsum = () => {
 
           {/* Footer */}
           <div className="text-center mt-16 pb-8 text-slate-400">
-          /* <p className="font-light">
+            {/* <p className="font-light">
               Vocabulary includes terms from donut economics, just transition, cooperative economics, and regenerative systems.
             </p>
             <p className="text-sm mt-2 opacity-75">
               Total vocabulary: {Object.values(vocabulary).flat().length} unique terms
-            </p> */
+            </p> */}
             <div className="mt-6 pt-4 border-t border-slate-700/50">
               <p className="text-sm opacity-90">
                 Made with 🤍 by <a 
